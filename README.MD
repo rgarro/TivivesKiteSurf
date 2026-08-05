@@ -2,8 +2,6 @@
 
 A Windfinder Hack to Check out Kitesurf conditions on local spots
 
-REMEMBER: No caer en el breaking swell y que se le enrollen los struts
-
 
 Looking for sponsors https://ozonekites.com/kite/kites/zephyr-v8-ultra-x/
 
