@@ -13,7 +13,8 @@ import android.os.Bundle;
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
- *
+ * Con una casa en Fiesta del Mar y un Atv kawasaki
+ * se puede llegar a estos lugares
  *
  *
  *
