@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
         android:layout_gravity="center"
-        android:layout_margin="16dp"/>
+        android:layout_margin="16dp"
+        android:entries="@array/beach_names"/>
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
