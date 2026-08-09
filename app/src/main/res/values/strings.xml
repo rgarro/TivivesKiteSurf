@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TivivesKiteSurf</string>
     <string name="find_beach_btn">Find Beach</string>
+    <string name="find_beach_txt">Click to Find Beach</string>
     <string-array name="beach_names">
         <item>Tivives</item>
         <item>Barranca</item>

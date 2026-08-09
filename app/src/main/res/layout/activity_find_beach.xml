@@ -19,11 +19,12 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/find_beach_btn"/>
+        android:text="@string/find_beach_btn"
+        android:onClick="onClickFindBeach"/>
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="@string/find_beach" />
 
 </LinearLayout>
