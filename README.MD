@@ -1,7 +1,8 @@
 # TiviveskiteSurf
 
-A Windfinder Hack to Check out Kitesurf conditions on local spots
+A Weather wind and tide conditions Hack to Check out Kitesurf conditions on local spots
 
+Spot visits counter on mongodb or firebase firestore
 
 Looking for sponsors https://ozonekites.com/kite/kites/zephyr-v8-ultra-x/
 
