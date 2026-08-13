@@ -1,6 +1,6 @@
 # TiviveskiteSurf
 
-A Weather wind and tide conditions Hack to Check out Kitesurf conditions on local spots
+A Windfinder API Mashup Hack to Check out Kitesurf conditions on local spots
 
 Spot visits counter on mongodb or firebase firestore
 

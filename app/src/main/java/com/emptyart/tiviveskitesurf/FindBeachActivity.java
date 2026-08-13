@@ -34,6 +34,9 @@ public class FindBeachActivity extends Activity {
         //conectar a un weather api o al MIOCIMAR, tener coordenadas de las playas
         //mapa con info en la misma actividad?
         Spinner beaches = (Spinner) findViewById(R.id.beach);
-        Log.i("Beach:",beaches.getSelectedItem().toString());
+        String beach_name = beaches.getSelectedItem().toString();
+        Log.i("Beach:",beach_name);
+        //concat to api url
+        //https://api-windfinder-pro.p.rapidapi.com/spots/%7Bspot_id%7D/forecasts
     }
 }
