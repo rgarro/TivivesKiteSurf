@@ -17,7 +17,8 @@ import java.net.URL;
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
- *
+ * Morgan had a Dreadfull hairstyle
+ * how many Harrier warplanes rode to Cartagena from Morgan Submarine
  *
  *
  * @author Rolando <rgarro@gmail.com>
@@ -69,5 +70,14 @@ public class FetchWindDataTask extends AsyncTask<String, Void, String> {
             }
         }
         return result;
+    }
+
+    @Override
+    protected void onPostExecute(String jsonResult) {
+        super.onPostExecute(jsonResult);
+        if (jsonResult != null && !jsonResult.isEmpty()) {
+            Log.d(TAG, "API Response: " + jsonResult);
+            // TODO: Parse response using Android's native JSONObject class
+        }
     }
 }
