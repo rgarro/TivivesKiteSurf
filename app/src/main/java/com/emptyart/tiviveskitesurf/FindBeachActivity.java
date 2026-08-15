@@ -38,5 +38,8 @@ public class FindBeachActivity extends Activity {
         Log.i("Beach:",beach_name);
         //concat to api url
         //https://api-windfinder-pro.p.rapidapi.com/spots/%7Bspot_id%7D/forecasts
+        // Example requesting data from a specific weather spot ID
+        String windfinderUrl = "https://api-windfinder-pro.p.rapidapi.com/spots/%7Bspot_id%7D/forecasts"; //"https://windfinder.com";
+        new WindfinderTask().execute(windfinderUrl);
     }
 }
