@@ -23,6 +23,7 @@ import java.net.URL;
  *
  * @author Rolando <rgarro@gmail.com>
  */
+@Deprecated
 public class FetchWindDataTask extends AsyncTask<String, Void, String> {
 
     private static final String TAG = "WindfinderTask";
